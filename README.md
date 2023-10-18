@@ -1,4 +1,4 @@
-
+![logo](https://github.com/angelatungky/angelatungky/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Angela Gabrielle Tungky</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
